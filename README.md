@@ -1,8 +1,8 @@
 # ACM-W
 hello! this is a repo with different files written in C++. They go over the basic loops in C++ as well as a file with some debugging needs.
 
-if you have downloaded VS Code and it is able to run cpp files. To run these you need to run these in the terminal:
-  1. g++ filename.cpp
+if you have downloaded VS Code and it is able to run cpp files, run these in the terminal to run program:
+  1. g++ <filename.cpp>
   2. ./a.out
   this should compile and execute the program
 
